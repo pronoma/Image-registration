@@ -1,0 +1,7 @@
+ObjectType = Image
+NDims = 3
+DimSize = 2468 1407 8506
+ElementType = MET_UCHAR
+ElementSize = 0.24311183144 0.2842928216 0.2
+ElementByteOrderMSB = False
+ElementDataFile = cryo.raw
